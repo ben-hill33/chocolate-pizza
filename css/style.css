@@ -1,0 +1,13 @@
+#logo {
+  float: left;
+}
+
+#headertext {
+  height: 45;
+  display: inline-block
+  
+}
+
+h2 {
+  border: 0px;
+}
