@@ -1,0 +1,41 @@
+#logo {
+  float: left;
+}
+
+#headertext {
+  height: 45;
+  display: inline-block;
+  margin-left: 10px;
+  
+}
+
+#bestfood {
+  font-size: xx-small;
+}
+
+#pinterest {
+  margin-right: 10px;
+}
+
+#icon {
+  margin-left: 70px;
+
+}
+
+body {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  font-size: xx-large;
+}
+
+header {
+  margin-top: 40px;
+}
+
+h1 {
+  margin-top: 40px;
+}
